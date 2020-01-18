@@ -1,4 +1,14 @@
 # NgApp
+Demo App by RKm, published in github pages. accessible using below URL.
+https://rakesh-mohanta.github.io/ng-app/
+
+Type below command from your terminal to directly push it to github pages.
+ng build --prod --output-path docs --base-href "https://rakesh-mohanta.github.io/ng-app/"
+
+Check below angular guide for deployment.
+https://angular.io/guide/deployment#deploy-to-github-pages
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
